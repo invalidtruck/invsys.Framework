@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invsys.Framework", "invsys.Framework\invsys.Framework.csproj", "{3F1B2D08-D3EF-461E-8B37-FA23C056FF5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invsys.Framework.Utilities", "invsys.Framework.Utilities\invsys.Framework.Utilities.csproj", "{5F2E13F5-095B-4014-8A37-1F1600CE3554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invsys.Framework.Web.MVC.Helpers", "invsys.Framework.Web.MVC.Helpers\invsys.Framework.Web.MVC.Helpers.csproj", "{E0FC437F-F086-4ABC-A14D-96E887C0D14C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invsys.Framework.Linq.Extentions", "invsys.Framework.Linq.Extentions\invsys.Framework.Linq.Extentions.csproj", "{E30C026A-8FA6-43BD-8C26-6CB795FDB791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invsys.Framework.Security", "invsys.Framework.Security\invsys.Framework.Security.csproj", "{1C280CFE-9D2B-4FEB-BE39-20097868F134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F1B2D08-D3EF-461E-8B37-FA23C056FF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1B2D08-D3EF-461E-8B37-FA23C056FF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1B2D08-D3EF-461E-8B37-FA23C056FF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1B2D08-D3EF-461E-8B37-FA23C056FF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2E13F5-095B-4014-8A37-1F1600CE3554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2E13F5-095B-4014-8A37-1F1600CE3554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2E13F5-095B-4014-8A37-1F1600CE3554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2E13F5-095B-4014-8A37-1F1600CE3554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FC437F-F086-4ABC-A14D-96E887C0D14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FC437F-F086-4ABC-A14D-96E887C0D14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FC437F-F086-4ABC-A14D-96E887C0D14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FC437F-F086-4ABC-A14D-96E887C0D14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30C026A-8FA6-43BD-8C26-6CB795FDB791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30C026A-8FA6-43BD-8C26-6CB795FDB791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30C026A-8FA6-43BD-8C26-6CB795FDB791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30C026A-8FA6-43BD-8C26-6CB795FDB791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C280CFE-9D2B-4FEB-BE39-20097868F134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C280CFE-9D2B-4FEB-BE39-20097868F134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C280CFE-9D2B-4FEB-BE39-20097868F134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C280CFE-9D2B-4FEB-BE39-20097868F134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
